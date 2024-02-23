@@ -1,1 +1,1 @@
-print('Teste para aluno Álvaro!')
+print('Testando comando git push')
