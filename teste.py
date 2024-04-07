@@ -1,1 +1,1 @@
-print('Testando acesso para o aluno Álvaro!')
+print('Testando acesso!')
