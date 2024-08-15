@@ -20,5 +20,5 @@ with sns.axes_style('darkgrid'):
  )
 
  figura = grafico_gasolina.get_figure()
- figura.savefig('gasolina.png', dpi=600)
+ figura.savefig('gasolina2.png', dpi=600)
 
