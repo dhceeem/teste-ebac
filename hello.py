@@ -1,1 +1,1 @@
-print('Testando!')
+print('Testando código do aluno')
